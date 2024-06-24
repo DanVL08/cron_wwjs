@@ -1,3 +1,2 @@
-2024/06/24-13:29:50.010 2158 Reusing MANIFEST C:\Users\LENOVO\Desktop\ENVIO_MENSAJES_NODE\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2024/06/24-13:29:50.011 2158 Recovering log #3
-2024/06/24-13:29:50.011 2158 Reusing old log C:\Users\LENOVO\Desktop\ENVIO_MENSAJES_NODE\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2024/06/24-17:23:02.340 e8c Creating DB C:\Users\LENOVO\Desktop\CRON_MENSAJES_NODE\envio_mensajes_node\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
+2024/06/24-17:23:02.353 e8c Reusing MANIFEST C:\Users\LENOVO\Desktop\CRON_MENSAJES_NODE\envio_mensajes_node\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
